@@ -1,0 +1,6 @@
+framework module YCClangTrace {
+  umbrella header "YCClangTrace-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - YCClangTrace (0.1.0)
+
+DEPENDENCIES:
+  - YCClangTrace (from `../`)
+
+EXTERNAL SOURCES:
+  YCClangTrace:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YCClangTrace: 6ced7309a2692a74ceaad301ad8c15b2ed205a37
+
+PODFILE CHECKSUM: cf845f1c1560e9c6f551f7a88e636fbf1599b7d0
+
+COCOAPODS: 1.5.3
